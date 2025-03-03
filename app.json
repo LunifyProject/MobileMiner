@@ -1,0 +1,13 @@
+{
+  "pools" : [
+    {
+      "key" : "Lunify (Official Pool)",
+      "pool" : "pool.lunify.xyz",
+      "port" : "3333",
+      "ports" : ["3333", "5555", "7777"],
+      "type"  :  3,
+      "url" : "https://pool.lunify.xyz",
+      "ip" : "188.91.104.222"
+    }
+  ]
+}
