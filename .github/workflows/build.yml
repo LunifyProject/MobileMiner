@@ -29,7 +29,7 @@ on:
 
 jobs:
   build:
-    name: Android ARM & x86
+    name: Android
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
